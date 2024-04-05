@@ -1,0 +1,22 @@
+{
+  "name": "petp-backend-express",
+  "version": "1.0.0",
+  "description": "backend on express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RomanKa4ok/petp-backend-express.git"
+  },
+  "author": "Roman Chepiha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RomanKa4ok/petp-backend-express/issues"
+  },
+  "homepage": "https://github.com/RomanKa4ok/petp-backend-express#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
